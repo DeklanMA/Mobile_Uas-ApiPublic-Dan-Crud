@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Mobile Uas</string>
+    <string name="txt_wlcm">Welcome</string>
+    <string name="TXT_LOGIN">LOGIN</string>
+    <string name="txt_inputtext">Input Your Email</string>
+    <string name="txt_inputpassword">Input your password</string>
+    <string name="txt_forgot">Forgot Password</string>
+    <string name="btn_login1">Login</string>
+    <string name="create_account">Dont Have Account?<font color="#00008b"><b> Register</b></font></string>
+    <string name="registe_confirm_password">Confirm Your Password</string>
+    <string name="txt_confirmpass">Your Passsword</string>
+    <string name="btn_register">Register</string>
+    <string name="register_title">Create New Account</string>
+    <string name="register_sub_title"><font color="#00008b"><b>Register</b></font> to get started with the app.
+    </string>
+    <string name="register_fullname">Nama Lengkap</string>
+    <string name="register_email">Email Kamu</string>
+    <string name="register_username">Username</string>
+    <string name="login">i Have Account?<font color="#00008b"><b> Login</b></font></string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="find_your_email">Find Your Email</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="back_to_login">Back to <font color="#00008b"><b> Login</b></font></string>
+    <string name="email_address">Email address</string>
+    <string name="nama_profile">Nama Lengkap</string>
+    <string name="email_profile">Email Kamu</string>
+    <string name="username">Nama Kelas</string>
+    <string name="resul_namalengkap">Rifqi Luthfi Athallah</string>
+    <string name="resul_kelas">BB</string>
+    <string name="resul_email">rifqila245@gmail.com</string>
+    <string name="txt_nextt">Next</string>
+    <string name="txt_btnedit">Change Profile</string>
+    <string name="txt_matkul">MataKuliah</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="millions_of">
+Millions of peoples can’t  Wait to see what you have to share
+</string>
+    <string name="page2">
+Explore your mates for gowth of
+your knowledge and personality
+</string>
+
+    <string name="skip">
+Skip
+</string>
+    <string name="don_t_have_">
+Don’t have account? <font fgcolor="#E9D5D5">  Create Now</font>
+</string>
+
+    <string name="register">
+Already have account?  <font fgcolor="#E9D5D5">  Login</font>
+</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_profile">Profile</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
